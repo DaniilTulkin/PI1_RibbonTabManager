@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_RibbonTabManager</Name>
+		<Assembly>PI1_RibbonTabManager.dll</Assembly>
+		<AddInId>B036C6CD-CB9C-4134-A07A-7E7085ECCD8D</AddInId>
+		<FullClassName>PI1_RibbonTabManager.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
